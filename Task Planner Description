@@ -1,0 +1,19 @@
+ To-Do List GUI Application
+This is a simple To-Do List task planner built using Python's Tkinter library. 
+It provides a user-friendly interface where users can add tasks along with their due dates, manage their task list, and store their tasks persistently.
+Features:
+Add Tasks: Enter tasks along with due dates to keep track of deadlines.
+Task List: View all added tasks in a structured list.
+Persistence: Tasks can be saved and loaded using the pickle library, allowing users to retain their tasks even after closing the application.
+The GUI allows you to:
+Add a task by typing the task description and its due date.
+View the added tasks in the task list box.
+Delete or manage tasks using the buttons provided.
+Dependencies:
+Tkinter: For the GUI components.
+Pickle: For saving and loading tasks.
+Datetime: For handling task due dates.
+Future Enhancements
+Adding functionality to mark tasks as complete.
+Allowing users to prioritize tasks or categorize them.
+Enhancing the UI with custom themes.
